@@ -14,6 +14,7 @@
 }
 
 .App-header {
+  background-color: #abdbe3;  
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,4 +37,12 @@
   100% {
     transform: translateY(0px);
   }
+}
+
+button {
+  font-size: 36px;
+  padding: 16px;
+  border-radius: 16px;
+  color: white;
+  font-weight: bold;
 }
